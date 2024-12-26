@@ -1,0 +1,1 @@
+export { ConsumoForm } from './ConsumoForm';
