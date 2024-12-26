@@ -19,4 +19,4 @@ git branch -M main
 git remote add origin https://github.com/weimars70/Acueducto-erp.git
 
 # Hacer push al repositorio remoto
-git push -u origin main
+git push 
